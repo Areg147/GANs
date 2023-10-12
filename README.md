@@ -1,4 +1,4 @@
-# GANs
+# DCGANs
 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐚𝐭𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐭𝐡𝐢𝐬 𝐩𝐚𝐩𝐞𝐫 -- https://arxiv.org/abs/1511.06434
 𝐦𝐨𝐝𝐞𝐥 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝟕𝟑 𝐱 𝟕𝟑 𝐩𝐢𝐱𝐞𝐥 𝐩𝐞𝐨𝐩𝐥𝐞𝐬 𝐢𝐦𝐚𝐠𝐞𝐬
 
@@ -16,6 +16,7 @@ G_opt = Adam lr=0.0002, beta_1=0.5
 D_opt = Adam lr=0.0002, beta_1=0.5
 Leaky(alpha=0.2)
 k_steps_to_train_D = 1
-
 𝐑𝐄𝐒𝐔𝐋𝐓𝐒
+
+
 ![results](https://github.com/Areg147/GANs/assets/131033594/7f0bb009-cd45-493a-870f-b8a13ba41508)
